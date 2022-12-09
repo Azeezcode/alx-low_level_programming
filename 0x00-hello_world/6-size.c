@@ -5,7 +5,7 @@
  *
  * Return: Always 0 (Success)
  */
-int main()
+int main(void)
 {
 
 	int integerType;
@@ -13,13 +13,11 @@ int main()
 	float floatType;
 	long int longintegerType;
 	long long int longlongintegerType;
-	
-	//sizeof operator is used to evaluate size of variable
 
-	printf("Size of char: %ld byte(s)\n", sizeof (charType));
-	printf("Size of int: %ld byte(s)\n" , sizeof (integerType));
-	printf("Size of long int: %ld byte(s)\n" , sizeof (longintegerType));
-	printf("Size of long long int: %ld byte(s)\n" , sizeof (longlongintegerType));
-	printf("Size of float: %ld byte(s)\n" , sizeof (floatType));
+	printf("Size of a char: %ld byte(s)\n",sizeof(charType));
+	printf("Size of an int: %ld byte(s)\n",sizeof(integerType));
+	printf("Size of a long int: %ld byte(s)\n",sizeof(longintegerType));
+	printf("Size of a long long int: %ld byte(s)\n",sizeof(longlongintegerType));
+	printf("Size of a float: %ld byte(s)\n",sizeof(floatType));
 	return 0;
 }
