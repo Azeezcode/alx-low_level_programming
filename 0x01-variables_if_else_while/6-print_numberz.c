@@ -3,7 +3,7 @@
 /**
  *main - Entry point
  *Description: prints all single digit of base 10 with a new line
- *return: returns 0 (success)
+ *Return: returns 0 (success)
  */
 int main(void)
 {
