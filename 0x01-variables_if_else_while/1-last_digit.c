@@ -3,9 +3,9 @@
 #include<time.h>
 
 /**
- * main - Entry point
+ * main - Print the last digit of random numbers
  *
- * Return : 0
+ * Return : Return 0
  *
  */
 int main(void)
