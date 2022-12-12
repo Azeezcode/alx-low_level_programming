@@ -3,7 +3,7 @@
 #include<time.h>
 
 /**
- *main - Prints the last digit of the random 
+ *main-Prints the last digit of the random 
  *numbers stored in the variable n
  *
  * return: Always  0 (Success)
