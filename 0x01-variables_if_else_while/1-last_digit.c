@@ -2,13 +2,13 @@
 #include<stdlib.h>
 #include<time.h>
 
-/**
- *main-Prints the last digit of the random 
- *numbers stored in the variable n
- *
- * return: Always  0 (Success)
- */
 
+/**
+ *main -Entry point
+ *
+ *eeturn: return 0
+ *
+ */
 int main(void)
 {
 	int n;
