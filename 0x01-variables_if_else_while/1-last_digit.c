@@ -3,10 +3,10 @@
 #include<time.h>
 
 /**
- *main - Entry point
+ *main - Prints the last digit of the random 
+ * numbers stored in the variable n
  *
- * Description: Print the last digit of the random numbers stored in the variable n
- *return: Always  0 (Success)
+ * return: Always  0 (Success)
  *
  */
 int main(void)
