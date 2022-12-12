@@ -4,11 +4,11 @@
 
 /**
  *main - Prints the last digit of the random 
- * numbers stored in the variable n
+ *numbers stored in the variable n
  *
  * return: Always  0 (Success)
- *
  */
+
 int main(void)
 {
 	int n;
