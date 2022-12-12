@@ -1,10 +1,11 @@
 #include<stdio.h>
 #include<ctype.h>
 /**
- * Main - Entry point
- * Description: print all single digits of Base 10 followed by new line
+ * Main - Prints all single digits of base 10 followed by new line
+ *
  * Return: returns 0 (success)
  */
+
 int main(void)
 {
 	int digit;
