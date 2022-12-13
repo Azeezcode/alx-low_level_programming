@@ -2,7 +2,7 @@
 
 /**
  * main - function that prints _putchar as output
- * 
+ *
  * Return: Always 0 (success)
  */
 int main(void)
@@ -16,5 +16,5 @@ int main(void)
 		_putchar(school[i]);
 	}
 	_putchar(10);
-	return(0);
+	return (0);
 }
