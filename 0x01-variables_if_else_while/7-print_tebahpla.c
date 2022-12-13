@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<ctype.h>
 /**
- * main - Entry point
- * Description: Write a program that prints the lowercase alphabet in reverse, followed by a new line
- * return: Return 0 (success)
+ *main - Entry point
+ *Description: Write a program that prints the lowercase alphabet in reverse, followed by a new line
+ *return: Return 0 (success)
  */
 int main(void)
 {
