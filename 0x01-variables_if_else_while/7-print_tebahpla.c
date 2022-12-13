@@ -1,10 +1,12 @@
 #include<stdio.h>
 #include<ctype.h>
 /**
- *main - Entry point
- *Description: a program that prints the lowercase alphabet in reverse.
- *return: return 0 (success)
+ * main - Entry point
+ *
+ * return: Always 0 (success
  */
+
+
 int main(void)
 {
 	int letter;
